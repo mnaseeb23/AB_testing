@@ -1,0 +1,26 @@
+# Environment secrets - use .env.example as a template instead
+.env
+
+# WordPress core (installed at runtime via docker-entrypoint, not vendored)
+wp-admin/
+wp-includes/
+wp-*.php
+xmlrpc.php
+license.txt
+wp-config.php
+
+# Only track our custom theme and sample data inside wp-content
+wp-content/*
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/leather-jacket-house
+wp-content/uploads/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Design source working files (large PDFs/pngs used only for reference)
+_design_preview/extracted_images/
+_design_preview/page_1.png

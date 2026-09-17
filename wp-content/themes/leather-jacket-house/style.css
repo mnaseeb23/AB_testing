@@ -1,0 +1,45 @@
+/*
+Theme Name: Leather Jacket House
+Theme URI: https://leatherjackethouse.com
+Author: Leather Jacket House Team
+Author URI: https://leatherjackethouse.com
+Description: A luxury, high-performance e-commerce WordPress theme custom-crafted for Leather Jacket House. Pixel-accurate design matching premium leather outerwear standards, with deep WooCommerce integration, SEO optimization, and mobile-first responsiveness.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: leather-jacket-house
+Tags: e-commerce, custom-colors, custom-menu, featured-images, full-width-template, theme-options, translation-ready, woocommerce
+*/
+
+/* CSS variables and global reset */
+:root {
+  --color-primary: #D38C2F;
+  --color-primary-dark: #B97723;
+  --color-primary-light: #F9F3EA;
+  --color-accent-gold: #FFB700;
+  --color-black: #111111;
+  --color-dark-bg: #1A1A1A;
+  --color-dark-card: #231F1F;
+  --color-cream: #F4F2ED;
+  --color-cream-light: #FAF9F6;
+  --color-border: #E7E7E7;
+  --color-border-dark: #333333;
+  --color-text-main: #222222;
+  --color-text-muted: #676469;
+  --color-text-light: #959597;
+  --color-white: #FFFFFF;
+  
+  --font-serif: 'Playfair Display', 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  
+  --container-width: 1440px;
+  --header-height: 84px;
+  --transition-fast: 0.2s ease;
+  --transition-smooth: 0.35s cubic-bezier(0.25, 1, 0.5, 1);
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.09);
+  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.12);
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Vintage Distressed Brown Leather Bomber Jacket",
+    "slug": "vintage-distressed-brown-leather-bomber-jacket",
+    "type": "simple",
+    "regular_price": "1295.00",
+    "sale_price": "895.00",
+    "price": "895.00",
+    "sku": "LJH-BM-01",
+    "stock_quantity": 15,
+    "manage_stock": true,
+    "categories": ["Men's Jackets", "Bomber Jackets"],
+    "tags": ["Vintage", "Lambskin", "Brown", "Distressed"],
+    "attributes": [
+      {
+        "name": "Size",
+        "options": ["XS", "S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "name": "Color",
+        "options": ["Brown", "Antique Tan", "Dark Espresso"]
+      },
+      {
+        "name": "Material",
+        "options": ["100% Full-Grain Lambskin"]
+      }
+    ],
+    "image": "product-1.jpg",
+    "short_description": "Handcrafted 100% full-grain distressed brown lambskin bomber jacket with antique brass hardware.",
+    "description": "Crafted from supple, premium lambskin leather, this vintage distressed bomber jacket features ribbed cuffs, heavy-duty antique brass YKK zippers, and a silky quilted interior lining designed for timeless style and warmth."
+  },
+  {
+    "title": "Classic Asymmetrical Biker Motorcycle Leather Jacket",
+    "slug": "classic-asymmetrical-biker-leather-jacket",
+    "type": "simple",
+    "regular_price": "1395.00",
+    "sale_price": "995.00",
+    "price": "995.00",
+    "sku": "LJH-BK-02",
+    "stock_quantity": 20,
+    "manage_stock": true,
+    "categories": ["Men's Jackets", "Women's Jackets", "Biker Jackets"],
+    "tags": ["Biker", "Cowhide", "Black", "Motorcycle"],
+    "attributes": [
+      {
+        "name": "Size",
+        "options": ["XS", "S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "name": "Color",
+        "options": ["Midnight Black"]
+      },
+      {
+        "name": "Material",
+        "options": ["1.2mm Heavyweight Cowhide"]
+      }
+    ],
+    "image": "product-2.jpg",
+    "short_description": "Iconic asymmetrical biker jacket in midnight black premium cowhide leather.",
+    "description": "An iconic classic biker jacket tailored from top-grade heavyweight cowhide leather. Featuring snap-down lapels, waist belt with roller buckle, zippered sleeve gussets, and multiple exterior zipper pockets."
+  },
+  {
+    "title": "Cafe Racer Slim Fit Lambskin Leather Jacket",
+    "slug": "cafe-racer-slim-fit-lambskin-leather-jacket",
+    "type": "simple",
+    "regular_price": "1195.00",
+    "sale_price": "895.00",
+    "price": "895.00",
+    "sku": "LJH-CR-03",
+    "stock_quantity": 18,
+    "manage_stock": true,
+    "categories": ["Men's Jackets", "Cafe Racer Jackets"],
+    "tags": ["Cafe Racer", "Lambskin", "Minimalist", "Black"],
+    "attributes": [
+      {
+        "name": "Size",
+        "options": ["XS", "S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "name": "Color",
+        "options": ["Black", "Cognac Brown"]
+      },
+      {
+        "name": "Material",
+        "options": ["Italian Full-Grain Lambskin"]
+      }
+    ],
+    "image": "product-3.jpg",
+    "short_description": "Minimalist cafe racer in supple Italian lambskin with snap collar and gunmetal zippers.",
+    "description": "Streamlined and elegant, this Cafe Racer jacket features a snap tab mandarin collar, zippered chest pockets, and contoured stitching along the shoulders and back. Crafted from ultra-soft Italian lambskin."
+  },
+  {
+    "title": "Heritage Wool & Leather Varsity Letterman Jacket",
+    "slug": "heritage-wool-leather-varsity-letterman-jacket",
+    "type": "simple",
+    "regular_price": "995.00",
+    "sale_price": "795.00",
+    "price": "795.00",
+    "sku": "LJH-VR-04",
+    "stock_quantity": 12,
+    "manage_stock": true,
+    "categories": ["Men's Jackets", "Women's Jackets", "Varsity Jackets"],
+    "tags": ["Varsity", "Wool", "Leather Sleeves", "Collegiate"],
+    "attributes": [
+      {
+        "name": "Size",
+        "options": ["XS", "S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "name": "Color",
+        "options": ["Black/Cream", "Navy/White", "Forest Green/Cream"]
+      },
+      {
+        "name": "Material",
+        "options": ["24oz Melton Wool & Genuine Cowhide Sleeves"]
+      }
+    ],
+    "image": "product-4.jpg",
+    "short_description": "Premium Melton wool and full-grain leather sleeves varsity jacket.",
+    "description": "Classic collegiate style meeting modern luxury. Heavyweight Melton wool body paired with 100% genuine full-grain leather sleeves and striped rib-knit trims."
+  },
+  {
+    "title": "Luxury Shearling Lined Aviator Flight Jacket",
+    "slug": "luxury-shearling-lined-aviator-flight-jacket",
+    "type": "simple",
+    "regular_price": "1595.00",
+    "sale_price": "1295.00",
+    "price": "1295.00",
+    "sku": "LJH-AV-05",
+    "stock_quantity": 8,
+    "manage_stock": true,
+    "categories": ["Men's Jackets", "Women's Jackets", "Aviator & Shearling", "Leather Coats"],
+    "tags": ["Aviator", "Sheepskin", "Shearling", "Winter"],
+    "attributes": [
+      {
+        "name": "Size",
+        "options": ["XS", "S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "name": "Color",
+        "options": ["Dark Brown with Cream Fleece", "All Black"]
+      },
+      {
+        "name": "Material",
+        "options": ["100% Authentic Merino Sheepskin"]
+      }
+    ],
+    "image": "product-5.jpg",
+    "short_description": "100% authentic merino sheepskin shearling aviator jacket for sub-zero warmth.",
+    "description": "Ultimate winter luxury. Genuine sheepskin leather with thick, plush merino shearling fleece lining throughout the interior, collar, and cuffs. Adjustable waist buckles and brass zippers."
+  },
+  {
+    "title": "Women's Tailored Belted Trench Leather Coat",
+    "slug": "womens-tailored-belted-trench-leather-coat",
+    "type": "simple",
+    "regular_price": "1495.00",
+    "sale_price": "1095.00",
+    "price": "1095.00",
+    "sku": "LJH-CT-06",
+    "stock_quantity": 10,
+    "manage_stock": true,
+    "categories": ["Women's Jackets", "Leather Coats"],
+    "tags": ["Trench Coat", "Lambskin", "Women", "Luxury"],
+    "attributes": [
+      {
+        "name": "Size",
+        "options": ["XS", "S", "M", "L", "XL"]
+      },
+      {
+        "name": "Color",
+        "options": ["Classic Black", "Caramel Tan", "Burgundy"]
+      },
+      {
+        "name": "Material",
+        "options": ["100% Buttery Soft Lambskin"]
+      }
+    ],
+    "image": "product-6.jpg",
+    "short_description": "Elegant double-breasted belted trench coat in luxury buttery lambskin.",
+    "description": "Sophisticated full-length leather trench coat crafted from buttery lambskin. Double-breasted button front, matching tie belt, shoulder epaulets, and storm flap."
+  },
+  {
+    "title": "Modern Urban Hooded Leather Bomber Jacket",
+    "slug": "modern-urban-hooded-leather-bomber-jacket",
+    "type": "simple",
+    "regular_price": "1245.00",
+    "sale_price": "945.00",
+    "price": "945.00",
+    "sku": "LJH-HD-07",
+    "stock_quantity": 25,
+    "manage_stock": true,
+    "categories": ["Men's Jackets", "Hooded Jackets", "Bomber Jackets"],
+    "tags": ["Hooded", "Bomber", "Streetwear", "Lambskin"],
+    "attributes": [
+      {
+        "name": "Size",
+        "options": ["XS", "S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "name": "Color",
+        "options": ["Matte Black", "Charcoal Grey"]
+      },
+      {
+        "name": "Material",
+        "options": ["Top-Grain Lambskin & French Terry Cotton Hood"]
+      }
+    ],
+    "image": "product-7.jpg",
+    "short_description": "Urban lambskin bomber with removable fleece hood and utility hardware.",
+    "description": "Versatile streetwear essential featuring a detachable French terry fleece hood, premium lambskin outer shell, matte black hardware, and zippered utility arm pocket."
+  },
+  {
+    "title": "Signature Matte Black Motorcycle Rider Jacket",
+    "slug": "signature-matte-black-motorcycle-rider-jacket",
+    "type": "simple",
+    "regular_price": "1350.00",
+    "sale_price": "995.00",
+    "price": "995.00",
+    "sku": "LJH-MR-08",
+    "stock_quantity": 14,
+    "manage_stock": true,
+    "categories": ["Men's Jackets", "Biker Jackets"],
+    "tags": ["Motorcycle", "Armored", "Cowhide", "Rider"],
+    "attributes": [
+      {
+        "name": "Size",
+        "options": ["XS", "S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "name": "Color",
+        "options": ["Matte Black"]
+      },
+      {
+        "name": "Material",
+        "options": ["1.2mm Abrasion-Resistant Cowhide"]
+      }
+    ],
+    "image": "product-8.jpg",
+    "short_description": "Reinforced 1.2mm top-grain leather motorcycle rider jacket.",
+    "description": "Precision engineered motorcycle jacket with reinforced shoulder padding, abrasion-resistant 1.2mm top-grain leather, bi-swing action back, and waterproof inner security pockets."
+  }
+]

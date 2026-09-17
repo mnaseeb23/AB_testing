@@ -1,0 +1,430 @@
+--- Block 0 (180, 88, 1638, 123) ---
+Leather jacket house
+Home
+Aboust us
+Women
+Men
+Shop
+Blog
+Contact
+English
+
+--- Block 1 (125, 357, 848, 621) ---
+Leather Jackets 
+for Every Style
+
+--- Block 2 (125, 626, 914, 678) ---
+Explore premium leather jackets for men and women, including bomber, cafe 
+racer, varsity, biker, and hooded styles crafted for everyday wear.
+
+--- Block 3 (146, 747, 644, 769) ---
+Shop Men's Collection
+Shop Women's Collection
+
+--- Block 4 (182, 1744, 616, 1936) ---
+MEN'S LEATHER 
+JACKETS
+
+--- Block 5 (198, 1971, 285, 1992) ---
+Shop Now
+
+--- Block 6 (1030, 1744, 1542, 1936) ---
+WOMEN'S
+LEATHER JACKETS
+
+--- Block 7 (1046, 1971, 1133, 1992) ---
+Shop Now
+
+--- Block 8 (710, 2227, 1211, 2280) ---
+F e a t u r e d C a t e g o r i e s
+
+--- Block 9 (151, 2807, 1923, 2836) ---
+Bomber Jackets
+Biker Jackets
+Varsity Jackets
+Leather Coats
+Leather
+
+--- Block 10 (817, 3158, 1103, 3212) ---
+J u s t L a n d e d
+
+--- Block 11 (125, 3862, 287, 3889) ---
+$895.00 - $1295.00
+
+--- Block 12 (261, 3899, 333, 3920) ---
+(5) Review
+
+--- Block 13 (548, 3862, 710, 3889) ---
+$895.00 - $1295.00
+
+--- Block 14 (684, 3899, 756, 3920) ---
+(5) Review
+
+--- Block 15 (971, 3862, 1133, 3889) ---
+$895.00 - $1295.00
+
+--- Block 16 (1107, 3899, 1179, 3920) ---
+(5) Review
+
+--- Block 17 (1394, 3862, 1556, 3889) ---
+$895.00 - $1295.00
+
+--- Block 18 (1530, 3899, 1602, 3920) ---
+(5) Review
+
+--- Block 19 (125, 4536, 287, 4562) ---
+$895.00 - $1295.00
+
+--- Block 20 (261, 4573, 333, 4593) ---
+(5) Review
+
+--- Block 21 (548, 4536, 710, 4562) ---
+$895.00 - $1295.00
+
+--- Block 22 (684, 4573, 756, 4593) ---
+(5) Review
+
+--- Block 23 (971, 4536, 1133, 4562) ---
+$895.00 - $1295.00
+
+--- Block 24 (1107, 4573, 1179, 4593) ---
+(5) Review
+
+--- Block 25 (1394, 4536, 1556, 4562) ---
+$895.00 - $1295.00
+
+--- Block 26 (1530, 4573, 1602, 4593) ---
+(5) Review
+
+--- Block 27 (801, 4763, 1120, 4816) ---
+S h o p B y S t y l e
+
+--- Block 28 (151, 5235, 1185, 5265) ---
+Bomber Jackets
+Cafe Racer Jackets
+
+--- Block 29 (151, 5689, 1153, 5719) ---
+Varsity Jackets
+Hooded Jackets
+
+--- Block 30 (786, 5936, 1135, 5981) ---
+S h o p B y c o l o r
+
+--- Block 31 (189, 6312, 1722, 6340) ---
+Black
+Brown
+Green
+Blue
+Grey
+White
+
+--- Block 32 (759, 6504, 1161, 6557) ---
+S h o p b y M a t e r i a l
+
+--- Block 33 (151, 6910, 1905, 6940) ---
+Lambskin
+Cowhide
+Sheepskin
+Goatskin
+Suede
+
+--- Block 34 (725, 7213, 1196, 7259) ---
+S h o p B y c o l l e c t i o n
+
+--- Block 35 (151, 7682, 1160, 7711) ---
+Classic Collection
+Luxury Collection
+
+--- Block 36 (138, 7949, 1485, 7967) ---
+Winter Collection
+Motorcycle Collection
+Celebrity Collection
+Best Sellers
+
+--- Block 37 (747, 8152, 1179, 8206) ---
+S h o p b y O c c a s i o n
+
+--- Block 38 (154, 8732, 1926, 8762) ---
+Everyday Wear
+Motorcycle Riding
+Travel
+Office Style
+Weeken
+
+--- Block 39 (489, 9084, 1431, 9173) ---
+Why Choose Leather Jacket House
+
+--- Block 40 (571, 9181, 1355, 9211) ---
+Explore premium leather jackets for men and women, including bomber, cafe
+
+--- Block 41 (631, 9208, 1290, 9238) ---
+racer, varsity, biker, and hooded styles crafted for everyday wear.
+
+--- Block 42 (155, 9357, 275, 9414) ---
+Premium 
+Leather
+
+--- Block 43 (577, 9350, 788, 9407) ---
+Exceptional 
+Craftsmanship
+
+--- Block 44 (1001, 9350, 1142, 9407) ---
+Extensive 
+Selection
+
+--- Block 45 (1425, 9350, 1542, 9407) ---
+Fast 
+Delivery
+
+--- Block 46 (155, 9533, 413, 9560) ---
+Every jacket is crafted from
+
+--- Block 47 (155, 9564, 453, 9591) ---
+carefully selected materials that
+
+--- Block 48 (155, 9595, 464, 9622) ---
+deliver lasting comfort, durability,
+
+--- Block 49 (155, 9626, 323, 9653) ---
+and timeless style.
+
+--- Block 50 (577, 9533, 906, 9560) ---
+Attention to detail, precise stitching,
+
+--- Block 51 (577, 9568, 863, 9591) ---
+and premium hardware create
+
+--- Block 52 (577, 9595, 878, 9622) ---
+jackets designed to be worn for
+
+--- Block 53 (577, 9630, 631, 9653) ---
+years.
+
+--- Block 54 (1001, 9553, 1270, 9576) ---
+Explore thousands of leather
+
+--- Block 55 (1001, 9584, 1311, 9607) ---
+jackets in a wide range of styles,
+
+--- Block 56 (1001, 9611, 1246, 9638) ---
+colors, materials, and sizes.
+
+--- Block 57 (1425, 9553, 1750, 9576) ---
+Reliable shipping, secure checkout,
+
+--- Block 58 (1425, 9584, 1742, 9607) ---
+and responsive customer support
+
+--- Block 59 (1425, 9615, 1708, 9638) ---
+help make every purchase easy.
+
+--- Block 60 (335, 9865, 1583, 9941) ---
+Premium Leather Jackets Designed for Everyday Style
+
+--- Block 61 (125, 10598, 1713, 10628) ---
+A leather jacket is more than outerwear. It is a wardrobe essential that combines comfort, durability, and timeless fashion. Our collection includes thousands
+
+--- Block 62 (125, 10633, 1695, 10663) ---
+of leather jackets for men and women, featuring classic bomber jackets, biker jackets, cafe racer styles, aviator jackets, leather coats, and contemporary
+
+--- Block 63 (125, 10668, 484, 10698) ---
+designs inspired by modern fashion.
+
+--- Block 64 (125, 10718, 1714, 10748) ---
+Every collection is selected with attention to quality materials, craftsmanship, and fit. Whether you are looking for a lightweight jacket for everyday wear or a
+
+--- Block 65 (125, 10753, 1150, 10783) ---
+warm shearling coat for winter, you can explore a wide range of colors, styles, and sizes in one place.
+
+--- Block 66 (125, 10835, 1603, 10858) ---
+We continue to expand our catalog with new arrivals, seasonal collections, and classic designs, making it easy to find a jacket that matches your personal style.
+
+--- Block 67 (608, 11026, 1269, 11140) ---
+Leather Care Guide
+
+--- Block 68 (177, 11170, 1748, 11196) ---
+A premium leather jacket can last for many years when cared for properly. Store your jacket on a wide hanger to help maintain its shape. Avoid excessive
+
+--- Block 69 (204, 11201, 1716, 11231) ---
+moisture and direct heat sources. Clean the surface with a soft cloth and use leather conditioner periodically to preserve softness and prevent drying.
+
+--- Block 70 (400, 11251, 1520, 11281) ---
+Proper storage and regular maintenance help maintain both the appearance and durability of genuine leather
+
+--- Block 71 (716, 11938, 1204, 11992) ---
+T h e L e a t h e r J o u r n a l
+
+--- Block 72 (170, 12502, 468, 12528) ---
+Inside the Studio: Our Process
+
+--- Block 73 (170, 12536, 479, 12562) ---
+for Crafting a Standout Identity
+
+--- Block 74 (733, 12502, 1031, 12528) ---
+Inside the Studio: Our Process
+
+--- Block 75 (733, 12536, 1042, 12562) ---
+for Crafting a Standout Identity
+
+--- Block 76 (1296, 12502, 1594, 12528) ---
+Inside the Studio: Our Process
+
+--- Block 77 (1296, 12536, 1605, 12562) ---
+for Crafting a Standout Identity
+
+--- Block 78 (170, 12656, 1385, 12677) ---
+5 min Read
+5 min Read
+5 min Read
+
+--- Block 79 (627, 12901, 1294, 12955) ---
+W h a t C u s t o m e r s A r e S a y i n g
+
+--- Block 80 (86, 13132, 319, 13227) ---
+I came to learn that 
+the storyline in my 
+head &
+
+--- Block 81 (453, 13132, 686, 13227) ---
+I came to learn that 
+the storyline in my 
+head &
+
+--- Block 82 (820, 13132, 1053, 13227) ---
+I came to learn that 
+the storyline in my 
+head &
+
+--- Block 83 (1187, 13132, 1420, 13227) ---
+I came to learn that 
+the storyline in my 
+head &
+
+--- Block 84 (1554, 13132, 1787, 13227) ---
+I came to learn that 
+the storyline in my 
+head &
+
+--- Block 85 (86, 13377, 133, 13408) ---
+Peter, 
+Belgium
+
+--- Block 86 (453, 13377, 500, 13408) ---
+Peter, 
+Belgium
+
+--- Block 87 (820, 13377, 867, 13408) ---
+Peter, 
+Belgium
+
+--- Block 88 (1187, 13377, 1234, 13408) ---
+Peter, 
+Belgium
+
+--- Block 89 (1554, 13377, 1601, 13408) ---
+Peter, 
+Belgium
+
+--- Block 90 (120, 13859, 673, 14109) ---
+Join Leather
+Jacket House
+
+--- Block 91 (140, 14143, 257, 14164) ---
+Enter your email
+
+--- Block 92 (313, 14568, 439, 14593) ---
+Free Delivery
+
+--- Block 93 (216, 14612, 540, 14630) ---
+Enjoy the convenience of free delivery on your
+
+--- Block 94 (197, 14632, 559, 14670) ---
+purchases! Shop now and have your items 
+delivered straight to your doorstep at no extra cost.
+
+--- Block 95 (262, 14672, 491, 14690) ---
+Perfect for hassle-free shopping!
+
+--- Block 96 (840, 14570, 995, 14595) ---
+30 days returns
+
+--- Block 97 (742, 14611, 1096, 14651) ---
+Didn't fit?€- No problem! You can always return or 
+exchange.€We offer a€30 days returns or exchange
+
+--- Block 98 (744, 14651, 1095, 14671) ---
+policy€if you are not happy with your order for any
+
+--- Block 99 (892, 14674, 943, 14691) ---
+reason.
+
+--- Block 100 (1413, 14579, 1589, 14605) ---
+Secure payments
+
+--- Block 101 (1294, 14620, 1713, 14641) ---
+Shop with confidence! Our secure payment system ensures
+
+--- Block 102 (1302, 14640, 1704, 14661) ---
+your personal and financial information is fully protected,
+
+--- Block 103 (1314, 14660, 1688, 14681) ---
+providing a safe and worry-free checkout experience.
+
+--- Block 104 (180, 14902, 419, 14938) ---
+Leather jacket house
+
+--- Block 105 (125, 14972, 416, 14993) ---
+Explore premium leather jackets for men
+
+--- Block 106 (125, 14995, 383, 15016) ---
+and women, including bomber, cafe
+
+--- Block 107 (125, 15018, 397, 15039) ---
+racer, varsity, biker, and hooded styles
+
+--- Block 108 (125, 15041, 314, 15062) ---
+crafted for everyday wear.
+
+--- Block 109 (992, 14878, 1044, 14903) ---
+Shop
+
+--- Block 110 (992, 14945, 1040, 14968) ---
+Home
+
+--- Block 111 (992, 15004, 1101, 15027) ---
+Women wear
+
+--- Block 112 (992, 15063, 1072, 15086) ---
+men wear
+
+--- Block 113 (992, 15122, 1081, 15145) ---
+Contact US
+
+--- Block 114 (1296, 14878, 1440, 14903) ---
+The Company
+
+--- Block 115 (1296, 14945, 1367, 14968) ---
+About US
+
+--- Block 116 (1296, 15004, 1400, 15027) ---
+Terms of use
+
+--- Block 117 (1296, 15063, 1404, 15086) ---
+Privacy Policy
+
+--- Block 118 (1296, 15122, 1377, 15145) ---
+Size guide
+
+--- Block 119 (1634, 14878, 1786, 14903) ---
+Client Services
+
+--- Block 120 (1634, 14945, 1786, 14968) ---
+shipping & delivery
+
+--- Block 121 (1634, 15005, 1736, 15028) ---
+Return policy
+
+--- Block 122 (125, 15326, 1424, 15344) ---
+Leather Jacket House © 2026. All Rights Reserved.
+We accept:
+

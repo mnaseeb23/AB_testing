@@ -1,0 +1,5 @@
+# Force LF line endings for shell scripts regardless of platform/editor settings.
+# Prevents "env: 'bash\r': No such file or directory" errors when scripts run
+# inside Linux containers after being checked out/edited on Windows.
+*.sh text eol=lf
+docker-entrypoint-custom.sh text eol=lf
