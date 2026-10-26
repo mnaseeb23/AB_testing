@@ -10,7 +10,7 @@
     "stock_quantity": 15,
     "manage_stock": true,
     "categories": ["Men's Jackets", "Bomber Jackets"],
-    "tags": ["Vintage", "Lambskin", "Brown", "Distressed"],
+    "tags": ["Vintage", "Lambskin", "Brown", "Distressed","Distressed2"],
     "attributes": [
       {
         "name": "Size",
