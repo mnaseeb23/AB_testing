@@ -46,6 +46,44 @@
         </div>
     </div>
 </section>
+<section class="trust-badges-section" aria-label="<?php esc_attr_e('Store Guarantees', 'leather-jacket-house'); ?>">
+    <div class="container">
+        <div class="trust-grid">
+            <!-- Free Delivery -->
+            <div class="trust-item">
+                <svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="1" y="3" width="15" height="13"></rect>
+                    <polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon>
+                    <circle cx="5.5" cy="18.5" r="2.5"></circle>
+                    <circle cx="18.5" cy="18.5" r="2.5"></circle>
+                </svg>
+                <h3>Free Delivery</h3>
+                <p>Enjoy the convenience of free delivery on your purchases! Shop now and have your items delivered straight to your doorstep at no extra cost. Perfect for hassle-free shopping!</p>
+            </div>
+
+            <!-- 30 Days Returns -->
+            <div class="trust-item">
+                <svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="1 4 1 10 7 10"></polyline>
+                    <polyline points="23 20 23 14 17 14"></polyline>
+                    <path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"></path>
+                </svg>
+                <h3>30 days returns</h3>
+                <p>Didn't fit? - No problem! You can always return or exchange. We offer a 30 days returns or exchange policy if you are not happy with your order for any reason.</p>
+            </div>
+
+            <!-- Secure Payments -->
+            <div class="trust-item">
+                <svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                    <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                </svg>
+                <h3>Secure payments</h3>
+                <p>Shop with confidence! Our secure payment system ensures your personal and financial information is fully protected, providing a safe and worry-free checkout experience.</p>
+            </div>
+        </div>
+    </div>
+</section>
 
 <!-- Main Site Footer -->
 <footer id="colophon" class="site-footer" role="contentinfo">
