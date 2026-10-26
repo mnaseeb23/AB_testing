@@ -4,7 +4,7 @@
  *
  * @package Leather_Jacket_House
  */
-
+return false;
 get_header();
 ?>
 
